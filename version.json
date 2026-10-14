@@ -1,35 +1,35 @@
 {
   "schema": 2,
   "android": {
-    "versionCode": 1,
-    "versionName": "1.0.0",
-    "changelog": "İlk sürüm: Android ve Windows için IPTV oynatıcı. Canlı TV ve yayın akışı, filmler ve diziler, arama, indirme ve çevrimdışı izleme, TV'ye yayın (DLNA, Chromecast), profiller ve ebeveyn kilidi. Güncellemeler bundan sonra uygulamanın içinden gelir.",
+    "versionCode": 2,
+    "versionName": "1.0.1",
+    "changelog": "Güncelleme kurulumu artık süren katalog senkronunu bitirmeden başlamaz: yarıda kesilen senkron bir sonraki açılışta baştan yapılıp sunucuya aynı istekleri iki kez göndermez. Kurulum 'Kurulmaya hazır' der ve senkron bitince kendiliğinden başlar.",
     "abis": {
       "arm64-v8a": {
-        "url": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.0/app-arm64-v8a-release.apk",
+        "url": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.1/app-arm64-v8a-release.apk",
         "sizeBytes": 48757302,
-        "sha256": "d96ae934936053f20f4c01ce22725a0fd3684d849de0e6d4687e29eb8e9b90d4"
+        "sha256": "bf959d1e917a2b7d0ff50c982ae283f3a6d88bd0ac9981e4af3e37f42e9ffd2c"
       },
       "armeabi-v7a": {
-        "url": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.0/app-armeabi-v7a-release.apk",
-        "sizeBytes": 44004528,
-        "sha256": "792e5235923788f59966db47699cdbaf99e26d505282811439f519f4638bfcd8"
+        "url": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.1/app-armeabi-v7a-release.apk",
+        "sizeBytes": 44004532,
+        "sha256": "ab4ccfc216a799eb55b2fa4c37adafb3a444a183d9111900f160a743666d10ac"
       },
       "x86_64": {
-        "url": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.0/app-x86_64-release.apk",
+        "url": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.1/app-x86_64-release.apk",
         "sizeBytes": 54655525,
-        "sha256": "152c41d20700b5eef220855a052f83d457c7f30710271a75a37e490bfa46f0d3"
+        "sha256": "7d59e5e224f92f68d001055b59a2e774c766b82ea0a467bf55a1c08dfbaede77"
       }
     }
   },
   "windows": {
-    "versionName": "1.0.0",
-    "changelog": "İlk sürüm: Android ve Windows için IPTV oynatıcı. Canlı TV ve yayın akışı, filmler ve diziler, arama, indirme ve çevrimdışı izleme, TV'ye yayın (DLNA, Chromecast), profiller ve ebeveyn kilidi. Güncellemeler bundan sonra uygulamanın içinden gelir.",
-    "installerUrl": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.0/TVApp-Setup-1.0.0.exe",
-    "portableUrl": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.0/TVApp-1.0.0-portable.zip",
-    "sizeBytes": 27640268,
-    "sha256": "121b24f6d6fac089a0f56ea3ecece9f5d9bb4096cf01784b7d5592c8b49ca54e",
-    "portableSizeBytes": 37296449,
-    "portableSha256": "003a3bfcb442e8c336aa8e84e40ee070b180e55fb9500688965536366a938d3b"
+    "versionName": "1.0.1",
+    "changelog": "Güncelleme kurulumu artık süren katalog senkronunu bitirmeden başlamaz: yarıda kesilen senkron bir sonraki açılışta baştan yapılıp sunucuya aynı istekleri iki kez göndermez. Kurulum 'Kurulmaya hazır' der ve senkron bitince kendiliğinden başlar.",
+    "installerUrl": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.1/TVApp-Setup-1.0.1.exe",
+    "portableUrl": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.1/TVApp-1.0.1-portable.zip",
+    "sizeBytes": 27641570,
+    "sha256": "8e80a0effe53fa0b507abbb1262c72d53284bc7cdce0fa363f1f843597032881",
+    "portableSizeBytes": 37297489,
+    "portableSha256": "123754e929b54760495b7c35f7593447477c196b37fbea75fb24dd7a43e9180c"
   }
 }
