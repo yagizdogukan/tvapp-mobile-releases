@@ -1,35 +1,35 @@
 {
   "schema": 2,
   "android": {
-    "versionCode": 2,
-    "versionName": "1.0.1",
-    "changelog": "Güncelleme kurulumu artık süren katalog senkronunu bitirmeden başlamaz: yarıda kesilen senkron bir sonraki açılışta baştan yapılıp sunucuya aynı istekleri iki kez göndermez. Kurulum 'Kurulmaya hazır' der ve senkron bitince kendiliğinden başlar.",
+    "versionCode": 3,
+    "versionName": "1.0.2",
+    "changelog": "Altyazı kaydırma: altyazı sesle uyuşmuyorsa Ses ve altyazı sayfasındaki Zamanlama satırından ±0,1 / ±0,5 sn adımlarla kaydır (Windows'ta G/H tuşları). Telefonda yatay izlerken ekrana dokununca solda parlaklık, sağda ses sürgüsü çıkar; sürükleyerek ayarla.",
     "abis": {
       "arm64-v8a": {
-        "url": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.1/app-arm64-v8a-release.apk",
-        "sizeBytes": 48757302,
-        "sha256": "bf959d1e917a2b7d0ff50c982ae283f3a6d88bd0ac9981e4af3e37f42e9ffd2c"
+        "url": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.2/app-arm64-v8a-release.apk",
+        "sizeBytes": 48439884,
+        "sha256": "835f9357e7a2434268e0eb1b2ed426d017749c4e677d7399c69217c4278b91d4"
       },
       "armeabi-v7a": {
-        "url": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.1/app-armeabi-v7a-release.apk",
-        "sizeBytes": 44004532,
-        "sha256": "ab4ccfc216a799eb55b2fa4c37adafb3a444a183d9111900f160a743666d10ac"
+        "url": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.2/app-armeabi-v7a-release.apk",
+        "sizeBytes": 43670726,
+        "sha256": "ea54b112f1d4f46bf1c774d0ee6152bf225447924b2526a2fd33784b31711833"
       },
       "x86_64": {
-        "url": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.1/app-x86_64-release.apk",
-        "sizeBytes": 54655525,
-        "sha256": "7d59e5e224f92f68d001055b59a2e774c766b82ea0a467bf55a1c08dfbaede77"
+        "url": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.2/app-x86_64-release.apk",
+        "sizeBytes": 54338107,
+        "sha256": "a7581da9fe2c07796b87f8a97019ae5f9d39c2a4e5a1fe225329e7aa50601e32"
       }
     }
   },
   "windows": {
-    "versionName": "1.0.1",
-    "changelog": "Güncelleme kurulumu artık süren katalog senkronunu bitirmeden başlamaz: yarıda kesilen senkron bir sonraki açılışta baştan yapılıp sunucuya aynı istekleri iki kez göndermez. Kurulum 'Kurulmaya hazır' der ve senkron bitince kendiliğinden başlar.",
-    "installerUrl": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.1/TVApp-Setup-1.0.1.exe",
-    "portableUrl": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.1/TVApp-1.0.1-portable.zip",
-    "sizeBytes": 27641570,
-    "sha256": "8e80a0effe53fa0b507abbb1262c72d53284bc7cdce0fa363f1f843597032881",
-    "portableSizeBytes": 37297489,
-    "portableSha256": "123754e929b54760495b7c35f7593447477c196b37fbea75fb24dd7a43e9180c"
+    "versionName": "1.0.2",
+    "changelog": "Altyazı kaydırma: altyazı sesle uyuşmuyorsa Ses ve altyazı sayfasındaki Zamanlama satırından ±0,1 / ±0,5 sn adımlarla kaydır (Windows'ta G/H tuşları). Telefonda yatay izlerken ekrana dokununca solda parlaklık, sağda ses sürgüsü çıkar; sürükleyerek ayarla.",
+    "installerUrl": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.2/TVApp-Setup-1.0.2.exe",
+    "portableUrl": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.2/TVApp-1.0.2-portable.zip",
+    "sizeBytes": 27613522,
+    "sha256": "cf0dd61bbce701e2b68b48b76e39cd25fa315cb6dc1b389abd0b94b6da5407b1",
+    "portableSizeBytes": 37239758,
+    "portableSha256": "94ce5523f5b73e9535e525fde95849960de5112b831ef1ec2441f74aada7312c"
   }
 }
