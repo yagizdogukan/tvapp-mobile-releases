@@ -1,35 +1,35 @@
 {
   "schema": 2,
   "android": {
-    "versionCode": 4,
-    "versionName": "1.0.3",
-    "changelog": "Windows'ta kapat (X) düğmesi uygulamayı anında kapatır. Telefonda yatay ekranda yan menü sadeleşti, Ses ve altyazı sayfası iki sütunlu; otomatik seçilen ses ve altyazı artık işaretli görünür.",
+    "versionCode": 5,
+    "versionName": "1.0.4",
+    "changelog": "Mobil veride ana sayfa artık boş kalmıyor: filmler ve diziler Wi-Fi'ı beklerken nedeni yazıyor, tek dokunuşla şimdi yükleyebilir ya da Ağ ayarlarına gidebilirsin. Katalog yüklenirken gerçek ilerleme görünüyor (indirilen MB, kategori sayısı); Bakım sayfasında da.",
     "abis": {
       "arm64-v8a": {
-        "url": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.3/app-arm64-v8a-release.apk",
-        "sizeBytes": 48439884,
-        "sha256": "6e3117eadc553a6fada4fc9c9c088918cd62d7ff59120372cb7aadd7bd258010"
+        "url": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.4/app-arm64-v8a-release.apk",
+        "sizeBytes": 48439928,
+        "sha256": "9b4daf46181b804998bb2f9ebe1b39ba288d007b34c0ccfdcbf63fc49bf875c3"
       },
       "armeabi-v7a": {
-        "url": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.3/app-armeabi-v7a-release.apk",
-        "sizeBytes": 43670726,
-        "sha256": "be84925b7d340a58a521453691722f70fb062c1350a106b45710dfb9a38ee578"
+        "url": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.4/app-armeabi-v7a-release.apk",
+        "sizeBytes": 43687154,
+        "sha256": "c2bbb05afbd2d3741971a28898dc38259a50e20d3b7d2ce5f6122ee9fcd2d529"
       },
       "x86_64": {
-        "url": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.3/app-x86_64-release.apk",
-        "sizeBytes": 54338107,
-        "sha256": "6653491de6e0d767011b4fe68b15bac2b16b0ab21a9094c043d5d1aa836ebd23"
+        "url": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.4/app-x86_64-release.apk",
+        "sizeBytes": 54338151,
+        "sha256": "6223b072c7b7df7a61da5df0e4c641e1ae4297000ff4f529614196a33d95bfbe"
       }
     }
   },
   "windows": {
-    "versionName": "1.0.3",
-    "changelog": "Windows'ta kapat (X) düğmesi uygulamayı anında kapatır. Telefonda yatay ekranda yan menü sadeleşti, Ses ve altyazı sayfası iki sütunlu; otomatik seçilen ses ve altyazı artık işaretli görünür.",
-    "installerUrl": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.3/TVApp-Setup-1.0.3.exe",
-    "portableUrl": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.3/TVApp-1.0.3-portable.zip",
-    "sizeBytes": 27615698,
-    "sha256": "0ca5ff5349133eacfbce7b4a5b1ff5e2a62e8475020b6184ff928b0d38851608",
-    "portableSizeBytes": 37241381,
-    "portableSha256": "9d6ad38fa4870d083053af2edc8d80fca90e960ed8296ece7ef122f7ff8409bd"
+    "versionName": "1.0.4",
+    "changelog": "Mobil veride ana sayfa artık boş kalmıyor: filmler ve diziler Wi-Fi'ı beklerken nedeni yazıyor, tek dokunuşla şimdi yükleyebilir ya da Ağ ayarlarına gidebilirsin. Katalog yüklenirken gerçek ilerleme görünüyor (indirilen MB, kategori sayısı); Bakım sayfasında da.",
+    "installerUrl": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.4/TVApp-Setup-1.0.4.exe",
+    "portableUrl": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.4/TVApp-1.0.4-portable.zip",
+    "sizeBytes": 27618319,
+    "sha256": "9e39fb32087e1e22a58f1ebe4eb906292db492aa0950e4677814b42233d3f04a",
+    "portableSizeBytes": 37245907,
+    "portableSha256": "9a6e051a4b98e355f1d870eea0b7282dd3a51369c74faff7fa483aec4170c8e2"
   }
 }
