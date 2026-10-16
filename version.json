@@ -1,35 +1,35 @@
 {
   "schema": 2,
   "android": {
-    "versionCode": 5,
-    "versionName": "1.0.4",
-    "changelog": "Mobil veride ana sayfa artık boş kalmıyor: filmler ve diziler Wi-Fi'ı beklerken nedeni yazıyor, tek dokunuşla şimdi yükleyebilir ya da Ağ ayarlarına gidebilirsin. Katalog yüklenirken gerçek ilerleme görünüyor (indirilen MB, kategori sayısı); Bakım sayfasında da.",
+    "versionCode": 6,
+    "versionName": "1.0.5",
+    "changelog": "Aramada ilk harften sonra klavye artık kapanmıyor. Film ve dizi detayında üst kısım ekrandayken kaydırma akıcı. Uzun özetler kısaltılıyor: \"Devamını göster\" ile açılıyor, \"Daha az göster\" ile kapanıyor. Windows'ta Canlı TV kanal aramasına rakam yazılabiliyor.",
     "abis": {
       "arm64-v8a": {
-        "url": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.4/app-arm64-v8a-release.apk",
-        "sizeBytes": 48439928,
-        "sha256": "9b4daf46181b804998bb2f9ebe1b39ba288d007b34c0ccfdcbf63fc49bf875c3"
+        "url": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.5/app-arm64-v8a-release.apk",
+        "sizeBytes": 48505464,
+        "sha256": "0ccfdf49b98254d33f9ab3007cdb9fbca2ae6e1451636685a6d3ee1c8220f362"
       },
       "armeabi-v7a": {
-        "url": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.4/app-armeabi-v7a-release.apk",
-        "sizeBytes": 43687154,
-        "sha256": "c2bbb05afbd2d3741971a28898dc38259a50e20d3b7d2ce5f6122ee9fcd2d529"
+        "url": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.5/app-armeabi-v7a-release.apk",
+        "sizeBytes": 43752690,
+        "sha256": "3a3213338dab3b5e047476e28b7cd40243acba54a3f01a12413723714669e97c"
       },
       "x86_64": {
-        "url": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.4/app-x86_64-release.apk",
-        "sizeBytes": 54338151,
-        "sha256": "6223b072c7b7df7a61da5df0e4c641e1ae4297000ff4f529614196a33d95bfbe"
+        "url": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.5/app-x86_64-release.apk",
+        "sizeBytes": 54469223,
+        "sha256": "d05cfd9ace3ca0aaac627eb23a9cced8c504120ca17c6c6489e637fdc3e1c87a"
       }
     }
   },
   "windows": {
-    "versionName": "1.0.4",
-    "changelog": "Mobil veride ana sayfa artık boş kalmıyor: filmler ve diziler Wi-Fi'ı beklerken nedeni yazıyor, tek dokunuşla şimdi yükleyebilir ya da Ağ ayarlarına gidebilirsin. Katalog yüklenirken gerçek ilerleme görünüyor (indirilen MB, kategori sayısı); Bakım sayfasında da.",
-    "installerUrl": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.4/TVApp-Setup-1.0.4.exe",
-    "portableUrl": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.4/TVApp-1.0.4-portable.zip",
-    "sizeBytes": 27618319,
-    "sha256": "9e39fb32087e1e22a58f1ebe4eb906292db492aa0950e4677814b42233d3f04a",
-    "portableSizeBytes": 37245907,
-    "portableSha256": "9a6e051a4b98e355f1d870eea0b7282dd3a51369c74faff7fa483aec4170c8e2"
+    "versionName": "1.0.5",
+    "changelog": "Aramada ilk harften sonra klavye artık kapanmıyor. Film ve dizi detayında üst kısım ekrandayken kaydırma akıcı. Uzun özetler kısaltılıyor: \"Devamını göster\" ile açılıyor, \"Daha az göster\" ile kapanıyor. Windows'ta Canlı TV kanal aramasına rakam yazılabiliyor.",
+    "installerUrl": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.5/TVApp-Setup-1.0.5.exe",
+    "portableUrl": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.5/TVApp-1.0.5-portable.zip",
+    "sizeBytes": 27624469,
+    "sha256": "2324e0ef290813922c6b44c332feda3947215bc8e85fff5308af401f11d307c8",
+    "portableSizeBytes": 37257165,
+    "portableSha256": "ad38f8b689162014ff35531d5b3cae21a0dda6c5fd93a5b791141634d4aa242b"
   }
 }
