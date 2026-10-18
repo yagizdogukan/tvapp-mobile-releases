@@ -31,5 +31,12 @@
     "sha256": "2324e0ef290813922c6b44c332feda3947215bc8e85fff5308af401f11d307c8",
     "portableSizeBytes": 37257165,
     "portableSha256": "ad38f8b689162014ff35531d5b3cae21a0dda6c5fd93a5b791141634d4aa242b"
+  },
+  "macos": {
+    "versionName": "1.0.5",
+    "changelog": "İlk Mac sürümü",
+    "dmgUrl": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.5/TVApp-1.0.5.dmg",
+    "sizeBytes": 48997864,
+    "sha256": "e111b2a01048eb919b49bdaa79e66c4ef76fd4cedefc844fa6f97e54a3068002"
   }
 }
