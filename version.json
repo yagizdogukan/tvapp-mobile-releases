@@ -1,36 +1,36 @@
 {
   "schema": 2,
   "android": {
-    "versionCode": 6,
-    "versionName": "1.0.5",
-    "changelog": "Aramada ilk harften sonra klavye artık kapanmıyor. Film ve dizi detayında üst kısım ekrandayken kaydırma akıcı. Uzun özetler kısaltılıyor: \"Devamını göster\" ile açılıyor, \"Daha az göster\" ile kapanıyor. Windows'ta Canlı TV kanal aramasına rakam yazılabiliyor.",
+    "versionCode": 7,
+    "versionName": "1.0.6",
+    "changelog": "Dikey telefonda oynatıcının üst düğmeleri durum çubuğu kadar aşağıda duruyordu; düzeltildi.",
     "abis": {
       "arm64-v8a": {
-        "url": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.5/app-arm64-v8a-release.apk",
-        "sizeBytes": 48505464,
-        "sha256": "0ccfdf49b98254d33f9ab3007cdb9fbca2ae6e1451636685a6d3ee1c8220f362"
+        "url": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.6/app-arm64-v8a-release.apk",
+        "sizeBytes": 48503869,
+        "sha256": "294df34cb121bd70636cdeda164edc10b4efc500ba136f94179bd6214910ffcc"
       },
       "armeabi-v7a": {
-        "url": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.5/app-armeabi-v7a-release.apk",
-        "sizeBytes": 43752690,
-        "sha256": "3a3213338dab3b5e047476e28b7cd40243acba54a3f01a12413723714669e97c"
+        "url": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.6/app-armeabi-v7a-release.apk",
+        "sizeBytes": 43751091,
+        "sha256": "a17173e853c6af965d7506fa598cfea406028e9809019e193389ae4e7bbb9fab"
       },
       "x86_64": {
-        "url": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.5/app-x86_64-release.apk",
-        "sizeBytes": 54469223,
-        "sha256": "d05cfd9ace3ca0aaac627eb23a9cced8c504120ca17c6c6489e637fdc3e1c87a"
+        "url": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.6/app-x86_64-release.apk",
+        "sizeBytes": 54467624,
+        "sha256": "1a9d20f130bda6eea089551f089268daa23421422d4a9db6c6bdac8cd2b64b16"
       }
     }
   },
   "windows": {
-    "versionName": "1.0.5",
-    "changelog": "Aramada ilk harften sonra klavye artık kapanmıyor. Film ve dizi detayında üst kısım ekrandayken kaydırma akıcı. Uzun özetler kısaltılıyor: \"Devamını göster\" ile açılıyor, \"Daha az göster\" ile kapanıyor. Windows'ta Canlı TV kanal aramasına rakam yazılabiliyor.",
-    "installerUrl": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.5/TVApp-Setup-1.0.5.exe",
-    "portableUrl": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.5/TVApp-1.0.5-portable.zip",
-    "sizeBytes": 27624469,
-    "sha256": "2324e0ef290813922c6b44c332feda3947215bc8e85fff5308af401f11d307c8",
-    "portableSizeBytes": 37257165,
-    "portableSha256": "ad38f8b689162014ff35531d5b3cae21a0dda6c5fd93a5b791141634d4aa242b"
+    "versionName": "1.0.6",
+    "changelog": "Dikey telefonda oynatıcının üst düğmeleri durum çubuğu kadar aşağıda duruyordu; düzeltildi.",
+    "installerUrl": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.6/TVApp-Setup-1.0.6.exe",
+    "portableUrl": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.6/TVApp-1.0.6-portable.zip",
+    "sizeBytes": 27631905,
+    "sha256": "c9e320b9a41132c7a3729a9a74187e0884ed14015e87a59010a5d208c599cc81",
+    "portableSizeBytes": 37271201,
+    "portableSha256": "d7b9d37119026358a764eddfdd8aa8852edab39601b67ef442fb941e0609ebc2"
   },
   "macos": {
     "versionName": "1.0.5",
