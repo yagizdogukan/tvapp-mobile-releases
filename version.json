@@ -41,10 +41,10 @@
   },
   "ios": {
     "versionName": "1.0.5",
-    "changelog": "İlk iPhone sürümü",
+    "changelog": "Kategori listesi, canlıda kanal listesi, mini oynatıcı detaylarda, arama/detay düzeltmeleri, mobil veride senkron bilgisi",
     "ipaUrl": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.5/TVApp-1.0.5.ipa",
-    "sizeBytes": 19035913,
-    "sha256": "95e6ece1d6641a2ce1983b9f5846f24931713bbc8a54b844b35335fef2d02749",
+    "sizeBytes": 19073556,
+    "sha256": "393e83b525201069ad2b88b945b561c8cf3bdecde7053e7a80b2ab6ce7101e0b",
     "manifestUrl": "https://raw.githubusercontent.com/yagizdogukan/tvapp-mobile-releases/main/ios/manifest.plist"
   }
 }
