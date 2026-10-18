@@ -34,10 +34,10 @@
   },
   "macos": {
     "versionName": "1.0.5",
-    "changelog": "İlk Mac sürümü",
+    "changelog": "Kategori listesi, canlıda kanal listesi, mini oynatıcı detaylarda, arama/detay düzeltmeleri, anında kapanma",
     "dmgUrl": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.5/TVApp-1.0.5.dmg",
-    "sizeBytes": 48997864,
-    "sha256": "e111b2a01048eb919b49bdaa79e66c4ef76fd4cedefc844fa6f97e54a3068002"
+    "sizeBytes": 49077904,
+    "sha256": "1f1f4c222c860d4a6081607af57b8f453bc428e1b868d28f72e3d15ed84f831b"
   },
   "ios": {
     "versionName": "1.0.5",
