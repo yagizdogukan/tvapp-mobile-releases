@@ -1,36 +1,36 @@
 {
   "schema": 2,
   "android": {
-    "versionCode": 7,
-    "versionName": "1.0.6",
-    "changelog": "Dikey telefonda oynatıcının üst düğmeleri durum çubuğu kadar aşağıda duruyordu; düzeltildi.",
+    "versionCode": 8,
+    "versionName": "1.0.7",
+    "changelog": "Canlı TV: yayın akışı kapatıldıktan sonra geri tuşu uygulamayı kapatmıyor, kategori listesine dönüyor. Yayın akışı takılmadan, dolu açılıyor.",
     "abis": {
       "arm64-v8a": {
-        "url": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.6/app-arm64-v8a-release.apk",
-        "sizeBytes": 48503869,
-        "sha256": "294df34cb121bd70636cdeda164edc10b4efc500ba136f94179bd6214910ffcc"
+        "url": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.7/app-arm64-v8a-release.apk",
+        "sizeBytes": 48503865,
+        "sha256": "ed78ccec8dd4e905f6d731a6de0194763cc2d219f4af0c8290b66c7741ead7ea"
       },
       "armeabi-v7a": {
-        "url": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.6/app-armeabi-v7a-release.apk",
+        "url": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.7/app-armeabi-v7a-release.apk",
         "sizeBytes": 43751091,
-        "sha256": "a17173e853c6af965d7506fa598cfea406028e9809019e193389ae4e7bbb9fab"
+        "sha256": "f6e67f04d919e4e53114dbdc824c564e502d598b1e829938ec7953f20342c6e7"
       },
       "x86_64": {
-        "url": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.6/app-x86_64-release.apk",
+        "url": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.7/app-x86_64-release.apk",
         "sizeBytes": 54467624,
-        "sha256": "1a9d20f130bda6eea089551f089268daa23421422d4a9db6c6bdac8cd2b64b16"
+        "sha256": "75d71449b41e42b7e3b7c5b5146af0590c3a6b3e0e9fb7346b32d3abeabdb815"
       }
     }
   },
   "windows": {
-    "versionName": "1.0.6",
-    "changelog": "Dikey telefonda oynatıcının üst düğmeleri durum çubuğu kadar aşağıda duruyordu; düzeltildi.",
-    "installerUrl": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.6/TVApp-Setup-1.0.6.exe",
-    "portableUrl": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.6/TVApp-1.0.6-portable.zip",
-    "sizeBytes": 27631905,
-    "sha256": "c9e320b9a41132c7a3729a9a74187e0884ed14015e87a59010a5d208c599cc81",
-    "portableSizeBytes": 37271201,
-    "portableSha256": "d7b9d37119026358a764eddfdd8aa8852edab39601b67ef442fb941e0609ebc2"
+    "versionName": "1.0.7",
+    "changelog": "Canlı TV: yayın akışı kapatıldıktan sonra geri tuşu uygulamayı kapatmıyor, kategori listesine dönüyor. Yayın akışı takılmadan, dolu açılıyor.",
+    "installerUrl": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.7/TVApp-Setup-1.0.7.exe",
+    "portableUrl": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.7/TVApp-1.0.7-portable.zip",
+    "sizeBytes": 27636903,
+    "sha256": "72e0ea5da9e4e7200408379ce7652b414eeffe21ff778b48419bb79ed2aa2205",
+    "portableSizeBytes": 37272472,
+    "portableSha256": "61d51bbb0083e92fdc0e63b1326905ef79eef73564afeee8b2639c13ab6f4371"
   },
   "macos": {
     "versionName": "1.0.5",
