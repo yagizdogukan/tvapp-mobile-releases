@@ -1,36 +1,36 @@
 {
   "schema": 2,
   "android": {
-    "versionCode": 8,
-    "versionName": "1.0.7",
-    "changelog": "Canlı TV: yayın akışı kapatıldıktan sonra geri tuşu uygulamayı kapatmıyor, kategori listesine dönüyor. Yayın akışı takılmadan, dolu açılıyor.",
+    "versionCode": 9,
+    "versionName": "1.0.8",
+    "changelog": "Oynatıcı mini oynatıcıya YouTube gibi akıcı küçülüp büyüyor: aşağı sürükleme parmağı takip ediyor, video mini oynatıcıya iniyor. Ses ve parlaklık yalnızca görünen sürgüden değişiyor. Ana sayfada son izlenen kanallar satırı; başlık sırası, görünüm ayarları ve kategori düzeni profile göre ayrı. Mini oynatıcı ayarlar ve indirilenler sayfalarında da görünüyor. Windows: Canlı TV sağ bölmede oynatıyor, farenin geri/ileri düğmeleri çalışıyor.",
     "abis": {
       "arm64-v8a": {
-        "url": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.7/app-arm64-v8a-release.apk",
-        "sizeBytes": 48503865,
-        "sha256": "ed78ccec8dd4e905f6d731a6de0194763cc2d219f4af0c8290b66c7741ead7ea"
+        "url": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.8/app-arm64-v8a-release.apk",
+        "sizeBytes": 48700873,
+        "sha256": "ca7d5696d32436b8ac6e101eec7ef09ff0aa20659dc49016b2d685fc1da3b76f"
       },
       "armeabi-v7a": {
-        "url": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.7/app-armeabi-v7a-release.apk",
-        "sizeBytes": 43751091,
-        "sha256": "f6e67f04d919e4e53114dbdc824c564e502d598b1e829938ec7953f20342c6e7"
+        "url": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.8/app-armeabi-v7a-release.apk",
+        "sizeBytes": 43964483,
+        "sha256": "0792f91c057a66b6c3f4a5209e4926c72438a3156407d4a711867e55ef25897c"
       },
       "x86_64": {
-        "url": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.7/app-x86_64-release.apk",
-        "sizeBytes": 54467624,
-        "sha256": "75d71449b41e42b7e3b7c5b5146af0590c3a6b3e0e9fb7346b32d3abeabdb815"
+        "url": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.8/app-x86_64-release.apk",
+        "sizeBytes": 54664632,
+        "sha256": "9613e2689e1481660787c74cbcc5b281a79a3e993323f7153c363f6f53ba96ff"
       }
     }
   },
   "windows": {
-    "versionName": "1.0.7",
-    "changelog": "Canlı TV: yayın akışı kapatıldıktan sonra geri tuşu uygulamayı kapatmıyor, kategori listesine dönüyor. Yayın akışı takılmadan, dolu açılıyor.",
-    "installerUrl": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.7/TVApp-Setup-1.0.7.exe",
-    "portableUrl": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.7/TVApp-1.0.7-portable.zip",
-    "sizeBytes": 27636903,
-    "sha256": "72e0ea5da9e4e7200408379ce7652b414eeffe21ff778b48419bb79ed2aa2205",
-    "portableSizeBytes": 37272472,
-    "portableSha256": "61d51bbb0083e92fdc0e63b1326905ef79eef73564afeee8b2639c13ab6f4371"
+    "versionName": "1.0.8",
+    "changelog": "Oynatıcı mini oynatıcıya YouTube gibi akıcı küçülüp büyüyor: aşağı sürükleme parmağı takip ediyor, video mini oynatıcıya iniyor. Ses ve parlaklık yalnızca görünen sürgüden değişiyor. Ana sayfada son izlenen kanallar satırı; başlık sırası, görünüm ayarları ve kategori düzeni profile göre ayrı. Mini oynatıcı ayarlar ve indirilenler sayfalarında da görünüyor. Windows: Canlı TV sağ bölmede oynatıyor, farenin geri/ileri düğmeleri çalışıyor.",
+    "installerUrl": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.8/TVApp-Setup-1.0.8.exe",
+    "portableUrl": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.8/TVApp-1.0.8-portable.zip",
+    "sizeBytes": 27700708,
+    "sha256": "387c9730276eb5b6033d941269ebedea80e63b98ce89da622600989a55d731a4",
+    "portableSizeBytes": 37371157,
+    "portableSha256": "f088d2efd8478c28d0591c575f8bcc564dea585af55f4e05c78038c62352f6cf"
   },
   "macos": {
     "versionName": "1.0.5",
