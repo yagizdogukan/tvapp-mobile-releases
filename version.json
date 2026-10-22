@@ -1,36 +1,36 @@
 {
   "schema": 2,
   "android": {
-    "versionCode": 10,
-    "versionName": "1.0.9",
-    "changelog": "Yetişkin kategorilerinde ilk afiş \"Rastgele\": dokununca o kategoriden rastgele bir film ya da dizi açılıyor. Oynatıcıda da yetişkin içerikte aynı kategoriden başka bir içeriğe geçen Rastgele düğmesi var. Görseli olmayan afişler artık boş kutu değil: filmlerde ve dizilerde film simgeli, yetişkin içerikte 18+ amblemli çizilmiş afiş. Ana sayfada yetişkin kilidi açılıp kapanınca satırlar kaymadan güncelleniyor; en alttan yukarı kaydırırken sayfa kendiliğinden aşağı inmiyor. Görünüm ayarları sadeleşti; yatay telefonda yan menü simgeleri eşit dağılıyor.",
+    "versionCode": 11,
+    "versionName": "1.0.10",
+    "changelog": "Oynatıcıda telefon için tam ekran düğmesi: telefonu yan yatırmadan yataya geçiyor, düğmeyle ya da geriyle dikeye dönüyor. Tam ekran düğmesi sağ altta; canlı yayında solundaki \"Canlıya yetiş\" yayını canlı uca atlatıyor. Bağlantı koparsa (örneğin hesap başka bir cihazda açılınca) oynatıcı 3 saniyelik geri sayımla kendiliğinden yeniden bağlanıyor. Canlı TV, Filmler ve Dizilerde bir kategori açıkken menüdeki sekmeye yeniden dokunmak kategori listesine döndürüyor.",
     "abis": {
       "arm64-v8a": {
-        "url": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.9/app-arm64-v8a-release.apk",
+        "url": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.10/app-arm64-v8a-release.apk",
         "sizeBytes": 48700985,
-        "sha256": "54911491a509aba7d231e652af1250ecb586d99f8d0a108509eecc64bf9aff5c"
+        "sha256": "753ae4ba71fa92b52cbd3d479c544825ff9945d59c80213fdc0d9e1c195ef93e"
       },
       "armeabi-v7a": {
-        "url": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.9/app-armeabi-v7a-release.apk",
-        "sizeBytes": 43980979,
-        "sha256": "938a62afc4b3b599fa2bc0c56b900df4512e8cadfb00a8af7448792821bffef7"
+        "url": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.10/app-armeabi-v7a-release.apk",
+        "sizeBytes": 44013747,
+        "sha256": "c1c05529eab4e2983da4eb192f00889a3ddd40c72fff2db6bd20ae36cb94f2fd"
       },
       "x86_64": {
-        "url": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.9/app-x86_64-release.apk",
-        "sizeBytes": 54664740,
-        "sha256": "eb69dcc58eea6cf467053ad090e4ed4a61df82c667a2260c41b8466061770d60"
+        "url": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.10/app-x86_64-release.apk",
+        "sizeBytes": 54664744,
+        "sha256": "3509d1295b3c5c18549002ea2cd05ce4bdba06c171ec01ac98d49a7b8bf02c4f"
       }
     }
   },
   "windows": {
-    "versionName": "1.0.9",
-    "changelog": "Yetişkin kategorilerinde ilk afiş \"Rastgele\": dokununca o kategoriden rastgele bir film ya da dizi açılıyor. Oynatıcıda da yetişkin içerikte aynı kategoriden başka bir içeriğe geçen Rastgele düğmesi var. Görseli olmayan afişler artık boş kutu değil: filmlerde ve dizilerde film simgeli, yetişkin içerikte 18+ amblemli çizilmiş afiş. Ana sayfada yetişkin kilidi açılıp kapanınca satırlar kaymadan güncelleniyor; en alttan yukarı kaydırırken sayfa kendiliğinden aşağı inmiyor. Görünüm ayarları sadeleşti; yatay telefonda yan menü simgeleri eşit dağılıyor.",
-    "installerUrl": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.9/TVApp-Setup-1.0.9.exe",
-    "portableUrl": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.9/TVApp-1.0.9-portable.zip",
-    "sizeBytes": 27707649,
-    "sha256": "f68cfed88661be0e5b4f3944160784690630fd2875fb9b089dddf899b308c26d",
-    "portableSizeBytes": 37383844,
-    "portableSha256": "1b13ad4d701486c41d992d82efed4a0f0fbbacd71d5e798716fc3ee142b0bcef"
+    "versionName": "1.0.10",
+    "changelog": "Oynatıcıda telefon için tam ekran düğmesi: telefonu yan yatırmadan yataya geçiyor, düğmeyle ya da geriyle dikeye dönüyor. Tam ekran düğmesi sağ altta; canlı yayında solundaki \"Canlıya yetiş\" yayını canlı uca atlatıyor. Bağlantı koparsa (örneğin hesap başka bir cihazda açılınca) oynatıcı 3 saniyelik geri sayımla kendiliğinden yeniden bağlanıyor. Canlı TV, Filmler ve Dizilerde bir kategori açıkken menüdeki sekmeye yeniden dokunmak kategori listesine döndürüyor.",
+    "installerUrl": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.10/TVApp-Setup-1.0.10.exe",
+    "portableUrl": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.10/TVApp-1.0.10-portable.zip",
+    "sizeBytes": 27708993,
+    "sha256": "a2c51a6d36189f3cd59e5cb8c34ef66e6b66d06e86d3c9fb7af4d22f4107e747",
+    "portableSizeBytes": 37385219,
+    "portableSha256": "8b3ded101e6d7a99f817706bdfd9e9b6b8a5e24bae298ade1ba9447d8d21d648"
   },
   "macos": {
     "versionName": "1.0.5",
