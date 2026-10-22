@@ -1,36 +1,36 @@
 {
   "schema": 2,
   "android": {
-    "versionCode": 9,
-    "versionName": "1.0.8",
-    "changelog": "Oynatıcı mini oynatıcıya YouTube gibi akıcı küçülüp büyüyor: aşağı sürükleme parmağı takip ediyor, video mini oynatıcıya iniyor. Ses ve parlaklık yalnızca görünen sürgüden değişiyor. Ana sayfada son izlenen kanallar satırı; başlık sırası, görünüm ayarları ve kategori düzeni profile göre ayrı. Mini oynatıcı ayarlar ve indirilenler sayfalarında da görünüyor. Windows: Canlı TV sağ bölmede oynatıyor, farenin geri/ileri düğmeleri çalışıyor.",
+    "versionCode": 10,
+    "versionName": "1.0.9",
+    "changelog": "Yetişkin kategorilerinde ilk afiş \"Rastgele\": dokununca o kategoriden rastgele bir film ya da dizi açılıyor. Oynatıcıda da yetişkin içerikte aynı kategoriden başka bir içeriğe geçen Rastgele düğmesi var. Görseli olmayan afişler artık boş kutu değil: filmlerde ve dizilerde film simgeli, yetişkin içerikte 18+ amblemli çizilmiş afiş. Ana sayfada yetişkin kilidi açılıp kapanınca satırlar kaymadan güncelleniyor; en alttan yukarı kaydırırken sayfa kendiliğinden aşağı inmiyor. Görünüm ayarları sadeleşti; yatay telefonda yan menü simgeleri eşit dağılıyor.",
     "abis": {
       "arm64-v8a": {
-        "url": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.8/app-arm64-v8a-release.apk",
-        "sizeBytes": 48700873,
-        "sha256": "ca7d5696d32436b8ac6e101eec7ef09ff0aa20659dc49016b2d685fc1da3b76f"
+        "url": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.9/app-arm64-v8a-release.apk",
+        "sizeBytes": 48700985,
+        "sha256": "54911491a509aba7d231e652af1250ecb586d99f8d0a108509eecc64bf9aff5c"
       },
       "armeabi-v7a": {
-        "url": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.8/app-armeabi-v7a-release.apk",
-        "sizeBytes": 43964483,
-        "sha256": "0792f91c057a66b6c3f4a5209e4926c72438a3156407d4a711867e55ef25897c"
+        "url": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.9/app-armeabi-v7a-release.apk",
+        "sizeBytes": 43980979,
+        "sha256": "938a62afc4b3b599fa2bc0c56b900df4512e8cadfb00a8af7448792821bffef7"
       },
       "x86_64": {
-        "url": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.8/app-x86_64-release.apk",
-        "sizeBytes": 54664632,
-        "sha256": "9613e2689e1481660787c74cbcc5b281a79a3e993323f7153c363f6f53ba96ff"
+        "url": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.9/app-x86_64-release.apk",
+        "sizeBytes": 54664740,
+        "sha256": "eb69dcc58eea6cf467053ad090e4ed4a61df82c667a2260c41b8466061770d60"
       }
     }
   },
   "windows": {
-    "versionName": "1.0.8",
-    "changelog": "Oynatıcı mini oynatıcıya YouTube gibi akıcı küçülüp büyüyor: aşağı sürükleme parmağı takip ediyor, video mini oynatıcıya iniyor. Ses ve parlaklık yalnızca görünen sürgüden değişiyor. Ana sayfada son izlenen kanallar satırı; başlık sırası, görünüm ayarları ve kategori düzeni profile göre ayrı. Mini oynatıcı ayarlar ve indirilenler sayfalarında da görünüyor. Windows: Canlı TV sağ bölmede oynatıyor, farenin geri/ileri düğmeleri çalışıyor.",
-    "installerUrl": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.8/TVApp-Setup-1.0.8.exe",
-    "portableUrl": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.8/TVApp-1.0.8-portable.zip",
-    "sizeBytes": 27700708,
-    "sha256": "387c9730276eb5b6033d941269ebedea80e63b98ce89da622600989a55d731a4",
-    "portableSizeBytes": 37371157,
-    "portableSha256": "f088d2efd8478c28d0591c575f8bcc564dea585af55f4e05c78038c62352f6cf"
+    "versionName": "1.0.9",
+    "changelog": "Yetişkin kategorilerinde ilk afiş \"Rastgele\": dokununca o kategoriden rastgele bir film ya da dizi açılıyor. Oynatıcıda da yetişkin içerikte aynı kategoriden başka bir içeriğe geçen Rastgele düğmesi var. Görseli olmayan afişler artık boş kutu değil: filmlerde ve dizilerde film simgeli, yetişkin içerikte 18+ amblemli çizilmiş afiş. Ana sayfada yetişkin kilidi açılıp kapanınca satırlar kaymadan güncelleniyor; en alttan yukarı kaydırırken sayfa kendiliğinden aşağı inmiyor. Görünüm ayarları sadeleşti; yatay telefonda yan menü simgeleri eşit dağılıyor.",
+    "installerUrl": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.9/TVApp-Setup-1.0.9.exe",
+    "portableUrl": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.9/TVApp-1.0.9-portable.zip",
+    "sizeBytes": 27707649,
+    "sha256": "f68cfed88661be0e5b4f3944160784690630fd2875fb9b089dddf899b308c26d",
+    "portableSizeBytes": 37383844,
+    "portableSha256": "1b13ad4d701486c41d992d82efed4a0f0fbbacd71d5e798716fc3ee142b0bcef"
   },
   "macos": {
     "versionName": "1.0.5",
