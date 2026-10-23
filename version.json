@@ -33,11 +33,11 @@
     "portableSha256": "8b3ded101e6d7a99f817706bdfd9e9b6b8a5e24bae298ade1ba9447d8d21d648"
   },
   "macos": {
-    "versionName": "1.0.5",
-    "changelog": "Kategori listesi, canlıda kanal listesi, mini oynatıcı detaylarda, arama/detay düzeltmeleri, anında kapanma",
-    "dmgUrl": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.5/TVApp-1.0.5.dmg",
-    "sizeBytes": 49077904,
-    "sha256": "1f1f4c222c860d4a6081607af57b8f453bc428e1b868d28f72e3d15ed84f831b"
+    "versionName": "1.0.10",
+    "changelog": "Ana sayfada son izlenen kanallar ve sıralanabilir başlıklar, kategori düzeni ayarı, Canlı TV sağ bölmede oynar, fare geri/ileri tuşları, mini oynatıcıda YouTube gibi küçülme, Canlıya yetiş, kopan bağlantıda 3 sn geri sayımla yeniden bağlanma, görseli olmayan içeriğe çizilmiş afiş.",
+    "dmgUrl": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.10/TVApp-1.0.10.dmg",
+    "sizeBytes": 49376530,
+    "sha256": "3dbb83dd2cd4a542531c391a680caa5009ffbdc7356bcc3a68a6372eee6147ec"
   },
   "ios": {
     "versionName": "1.0.10",
