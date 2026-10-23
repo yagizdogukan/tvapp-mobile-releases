@@ -9,13 +9,13 @@
       <array>
         <dict>
           <key>kind</key><string>software-package</string>
-          <key>url</key><string>https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.5/TVApp-1.0.5.ipa</string>
+          <key>url</key><string>https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.10/TVApp-1.0.10.ipa</string>
         </dict>
       </array>
       <key>metadata</key>
       <dict>
         <key>bundle-identifier</key><string>com.tvapp.player.mobile</string>
-        <key>bundle-version</key><string>1.0.5</string>
+        <key>bundle-version</key><string>1.0.10</string>
         <key>kind</key><string>software</string>
         <key>title</key><string>TV App</string>
       </dict>
