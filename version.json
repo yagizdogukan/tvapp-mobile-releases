@@ -40,11 +40,11 @@
     "sha256": "1f1f4c222c860d4a6081607af57b8f453bc428e1b868d28f72e3d15ed84f831b"
   },
   "ios": {
-    "versionName": "1.0.5",
-    "changelog": "Kategori listesi, canlıda kanal listesi, mini oynatıcı detaylarda, arama/detay düzeltmeleri, mobil veride senkron bilgisi",
-    "ipaUrl": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.5/TVApp-1.0.5.ipa",
-    "sizeBytes": 19073556,
-    "sha256": "393e83b525201069ad2b88b945b561c8cf3bdecde7053e7a80b2ab6ce7101e0b",
+    "versionName": "1.0.10",
+    "changelog": "Ana sayfada son izlenen kanallar ve sıralanabilir başlıklar, kategori düzeni ayarı, mini oynatıcıda YouTube gibi küçülme, telefonda tam ekran düğmesi, Canlıya yetiş, kopan bağlantıda 3 sn geri sayımla yeniden bağlanma, görseli olmayan içeriğe çizilmiş afiş.",
+    "ipaUrl": "https://github.com/yagizdogukan/tvapp-mobile-releases/releases/download/v1.0.10/TVApp-1.0.10.ipa",
+    "sizeBytes": 19188116,
+    "sha256": "8d91b771328e4f6857bd993fc0d5a6e375204ef7aa15b960d185c7ff2e95fa5c",
     "manifestUrl": "https://raw.githubusercontent.com/yagizdogukan/tvapp-mobile-releases/main/ios/manifest.plist"
   }
 }
